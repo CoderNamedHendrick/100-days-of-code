@@ -28,3 +28,11 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 0: May 10, Sunday
+**Today's Progress**: I've learnt how to create a login site using the django framework.
+
+**Thoughts** I've recently started coding with django and I really like how intuitive working with html using python is. I see myself working a lot more with the framework in the future.
+
+**My tweet**
+1. [My first day of code tweet](https://twitter.com/Rookie_coder17/status/1259582349140013059)
